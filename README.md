@@ -11,8 +11,6 @@
   <a href="mailto:hannahroxas0602@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img alt="Email" src="assets/btn-email-light.svg" height="48"></picture></a>
 </p>
 
-<p align="center">This README is the proof; the full case studies are on <a href="https://www.hannahroxas.com/">hannahroxas.com</a>.</p>
-
 <br>
 
 <picture>
