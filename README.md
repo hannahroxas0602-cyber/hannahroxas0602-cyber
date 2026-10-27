@@ -1,8 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light-v3.svg">
-  <img alt="Hannah Roxas designs it, then ships it to production, front end and back. Open to Product Designer / Design Engineer roles." src="assets/header-light-v3.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light-v4.svg">
+  <img alt="Hannah Roxas designs it, then ships it to production, front end and back. Open to Product Designer / Design Engineer roles." src="assets/header-light-v4.svg">
 </picture>
+
+<p align="center">
+  <img src="assets/hop-v1.gif" alt="A small rabbit hopping" height="56">
+</p>
 
 <p align="center">
   <a href="https://www.hannahroxas.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img alt="Portfolio" src="assets/btn-portfolio-light.svg" height="48"></picture></a>
