@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="assets/hop-v2.gif" alt="A small rabbit hopping" height="36">
+  <img src="assets/hop-v3.gif" alt="A small rabbit hopping" height="36">
 </p>
 
 <p align="center">
