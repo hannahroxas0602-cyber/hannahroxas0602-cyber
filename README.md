@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Hannah Roxas. Product designer who ships her own front-end code. Open to Product Designer / Design Engineer roles." src="assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light-v2.svg">
+  <img alt="Hannah Roxas. Product designer who ships her own front-end code. Open to Product Designer / Design Engineer roles." src="assets/header-light-v2.svg">
 </picture>
 
 <p align="center">
